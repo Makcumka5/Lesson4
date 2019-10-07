@@ -1,3 +1,5 @@
+package Homework01;
+
 public interface Actionable {
     void action(Wall name); //Метод, позволяющий участникам прыгать через стены
     void action(Track name); //Метод, позволяющий участникам бегать по дорожкам

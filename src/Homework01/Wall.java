@@ -1,3 +1,5 @@
+package Homework01;
+
 public class Wall implements Gradeability{
     private int height;
     public Wall(int height){

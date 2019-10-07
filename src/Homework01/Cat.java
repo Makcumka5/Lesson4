@@ -1,4 +1,4 @@
-import java.util.Random;
+package Homework01;
 
 public class Cat implements Actionable {
     private String name;

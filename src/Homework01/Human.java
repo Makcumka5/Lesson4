@@ -1,3 +1,5 @@
+package Homework01;
+
 public class Human implements Actionable {
     private String name;
     private int maxHeight=80; //Максимальная высота прыжка в сантиметрах, начальное значение

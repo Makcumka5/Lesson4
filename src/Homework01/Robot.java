@@ -1,3 +1,5 @@
+package Homework01;
+
 public class Robot implements Actionable {
     private String name;
     private int maxHeight; //Максимальная высота прыжка в сантиметрах
